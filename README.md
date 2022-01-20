@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AlainNshimirimana
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning C#, Web API, ASP.NET MVC, javascript, html5, and css3 
+- 👀 I’m interested in web development
+- 🌱 I have experience with C#, Web API, ASP.NET Core, javascript, html5, and css3 
 - 💞️ I’m looking to collaborate on projects
+- Here's my website http://alainnshimirimana.com/
 - 📫 How to reach me alain.nshimirimana@gmail.com or via linkedin: https://www.linkedin.com/in/alain-nshimirimana-409a49149/
 
 <!---
